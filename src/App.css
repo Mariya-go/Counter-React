@@ -1,0 +1,22 @@
+#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+}
+
+.count-style {
+    font-size: 70px;
+}
+
+.green {
+    color: rgb(40, 218, 165);
+}
+
+.red {
+    color: rgb(227, 50, 127);
+}
+
+.blue {
+    color: rgb(119, 119, 241);
+}
